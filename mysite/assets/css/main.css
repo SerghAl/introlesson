@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.particles-js-canvas-el {
+    position: absolute;
+    z-index: -1;
+}
+
+.animate {
+    animation-duration: 1s;
+}
+
+.title {
+    font-family: 'Marck Script', cursive;
+}

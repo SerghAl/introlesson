@@ -1,0 +1,13 @@
+db.sqlite3
+venv
+env
+
+.vscode
+.parcel-cache
+
+node_modules
+media
+logs
+static
+
+**/__pycache__
